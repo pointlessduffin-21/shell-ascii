@@ -1,5 +1,5 @@
 ## 😎 Overview
-This simple Shell program turns an ordinary jpeg from the internet and interprets it as ASCII text.
+This simple Shell program turns an ordinary jpeg from the internet with Curl and interprets it as ASCII text using jp2a.
 <img src="https://gpupv.yeems214.xyz/R%20e%20p%20o%20s%20i%20t%20o%20r%20y/half-ascii.jpg" />
 
 ## 📝 Requirements
