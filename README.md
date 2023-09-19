@@ -9,7 +9,7 @@ This simple Shell program turns an ordinary jpeg from the internet and interpret
 - Link to your image
 - WSL/macOS/Linux
 
-## 📦 Prequisites
+## 📦 Prerequisites
 - Ubuntu
 ```SHELL
 sudo apt install curl jp2a
